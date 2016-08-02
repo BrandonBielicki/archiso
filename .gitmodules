@@ -1,0 +1,3 @@
+[submodule "airootfs/etc/skel/HOME_DIR_SETUP"]
+	path = airootfs/etc/skel/HOME_DIR_SETUP
+	url = https://github.com/BrandonBielicki/Home_Dir.git
